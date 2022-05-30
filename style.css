@@ -25,7 +25,6 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0.5);
     color: #fff;
     padding-top: 80px;
     text-align: center;
@@ -35,7 +34,7 @@ body {
     transition: all .25s;
 }
 
-.portfolio li:hover dpscr {
+.portfolio li:hover .descr {
     opacity: 1;
 }
 
